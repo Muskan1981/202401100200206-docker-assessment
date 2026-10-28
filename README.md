@@ -1,1 +1,22 @@
-# devops-ca2-docker
+# FestPass - Docker & Container Security (CA-2)
+
+- **Name:** <YOUR NAME>
+- **REGNO:** 202401100200238
+- **PORT:** 8038
+- **Docker Hub username:** ogpratyush
+- **Docker Hub repo:** https://hub.docker.com/r/ogpratyush/fest-backend
+
+## AI tools used
+- <Claude / ChatGPT / ...>: <what you used it for - writing Dockerfiles and compose, explaining errors>
+
+## Digest of 1.0.0 (as pushed)
+`sha256:<PASTE DIGEST>`
+
+## Vulnerability before / after (3.3)
+| Image | CRITICAL | HIGH | Size |
+|---|---|---|---|
+| fest-backend:0.1 (python:3.9) | <n> | <n> | <size> |
+| fest-backend:0.2 (python:3.13-slim) | <n> | <n> | <size> |
+
+## Steps not completed
+- None
