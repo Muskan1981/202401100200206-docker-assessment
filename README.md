@@ -1,10 +1,10 @@
 # FestPass - Docker & Container Security (CA-2)
 
 - **Name:** <YOUR NAME>
-- **REGNO:** 202401100200238
-- **PORT:** 8038
-- **Docker Hub username:** ogpratyush
-- **Docker Hub repo:** https://hub.docker.com/r/ogpratyush/fest-backend
+- **REGNO:** 202401100200206
+- **PORT:** 8006
+- **Docker Hub username:** muskanagar3105
+- **Docker Hub repo:** https://hub.docker.com/r/muskanagar3105/fest-backend
 
 ## AI tools used
 - <Claude / ChatGPT / ...>: <what you used it for - writing Dockerfiles and compose, explaining errors>
